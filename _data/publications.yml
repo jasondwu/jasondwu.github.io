@@ -4,9 +4,9 @@ main:
     authors: <strong>Jason Wu*</strong> 
     conference_short: TxDOT
     conference: Texas Department of Transportation <strong>(TxDOT)</strong>, 2023.
-    Project Summary: https://arxiv.org/pdf/2306.00988.pdf
+    Summary: https://arxiv.org/pdf/2306.00988.pdf
     Video: https://github.com/MrGiovanni/ContinualLearning
-    Final Report: https://bib.yliu.me/MICCAI23.txt
+    Report: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/0-7128 Project01.png
     notes: Completed
 
